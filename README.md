@@ -1,9 +1,10 @@
 # PLC2025
 Processamento de Linguagens e Compiladores 2025
 # Autor
+![Autor](autor.png)  
+
 **Nome:** Nuno Daniel Abreu da Silva  
 **ID:** A108652  
-![Autor](autor.png)
 # Resumo
 Este repositório reúne todos os trabalhos práticos realizados no contexto da unidade curricular de Processamento de Linguagens e Compiladores (PLC) no ano letivo de 2025/2026. O seu principal objetivo é documentar e organizar as atividades desenvolvidas ao longo do semestre, permitindo acompanhar a evolução das competências adquiridas.  
 
