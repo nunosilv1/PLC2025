@@ -1,5 +1,9 @@
+**Universidade do Minho**  
+**Licenciatura Ciências da Computação**  
+**25/56**
+
 # PLC2025
-Processamento de Linguagens e Compiladores 2025
+Processamento de Linguagens e Compiladores
 # Autor
 ![Autor](autor.png)  
 
