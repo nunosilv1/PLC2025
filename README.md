@@ -12,4 +12,4 @@ Ao longo destes trabalhos serão estudados e aplicados os principais conceitos d
 
 Para além dos trabalhos práticos, o repositório inclui não só os TPC’s das aulas teóricas mas também os exercícios realizados nas aulas teórico-práticas.
 # Lista de Resultados
-- [TPC1](TPC1)
+- [TP1](TP1)
