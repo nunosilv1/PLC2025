@@ -48,4 +48,10 @@ Out: `Como pode ser consultado em <a href="http://www.uc.pt">página da UC</a>`
 
 In: Como se vê na imagem seguinte: `![imagem dum coelho](http://www.coellho.com) ...`
 
+---
+
+
+
+
+
 Out: `Como se vê na imagem seguinte: <img src="http://www.coellho.com" alt="imagem dum coelho"/> ...`
