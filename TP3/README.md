@@ -16,9 +16,9 @@ select ?nome ?desc where {
 } LIMIT 1000
 ```
 ### Resolução
-Desenvolvi a função tokenize() percorre o texto de entrada linha a linha e, usando expressões regulares, reconhece e classifica diferentes elementos da linguagem — como palavras-chave, variáveis, números, operadores e símbolos — transformando o texto numa sequência estruturada de tokens que representam os componentes léxicos necessários para etapas posteriores de análise sintática.
+Desenvolvi o programa [tokenizer.py](tokenizer.py) que contém a função tokenize() percorre o texto de entrada linha a linha e, usando expressões regulares, reconhece e classifica diferentes elementos da linguagem — como palavras-chave, variáveis, números, operadores e símbolos — transformando o texto numa sequência estruturada de tokens que representam os componentes léxicos necessários para etapas posteriores de análise sintática.
 
-Corri o programa com o teste acima e obtive o seguinte resultado
+Corri o programa [tokenizer.py](tokenizer.py) com o teste acima [sqarl_test.txt](sqarl_test.txt) e obtive o seguinte resultado:
 
 ```
 ('KEYWORD', 'select', 1, (0, 6))
