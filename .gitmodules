@@ -1,0 +1,3 @@
+[submodule "projeto"]
+	path = projeto
+	url = https://github.com/quimsimao2k5/ProjetoPLC25.git
