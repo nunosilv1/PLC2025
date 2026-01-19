@@ -13,4 +13,3 @@ Processamento de Linguagens e Compiladores
 Este repositório reúne todos os trabalhos práticos realizados no contexto da unidade curricular de Processamento de Linguagens e Compiladores (PLC) no ano letivo de 2025/2026. O seu principal objetivo é documentar e organizar as atividades desenvolvidas ao longo do semestre.  
 
 Ao longo destes trabalhos serão estudados e aplicados os principais conceitos de compilação, incluindo as análise léxica, análise sintática, análise semântica e geração de código.
-
