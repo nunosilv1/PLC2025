@@ -14,6 +14,3 @@ Este repositório reúne todos os trabalhos práticos realizados no contexto da 
 
 Ao longo destes trabalhos serão estudados e aplicados os principais conceitos de compilação, incluindo as análise léxica, análise sintática, análise semântica e geração de código.
 
-Para além dos trabalhos práticos, o repositório inclui não só os TPC’s das aulas teóricas mas também os exercícios realizados nas aulas teórico-práticas.
-# Lista de Resultados
-- [TP1](TP1)
